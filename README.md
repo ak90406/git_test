@@ -1,8 +1,8 @@
 Merge Test
 ==========
 * [Test1: blahblahblahblah](merge/conflict.md)
-* [Test2: blahblahblahblah][merge/foo.md)
-* [Test3: .........]
+* [Test2: blahblahblahblah](merge/foo.md)
+* [Test3: .........](merge/foo2.md)
 
 Conflict Test
 =============
