@@ -2,7 +2,7 @@ Merge Test
 ==========
 * [Test1: new file merge test](https://github.com/ak90406/git_test/blob/master/NewFileMerge.md)
 * [Test2: binary file merge](https://github.com/ak90406/git_test/blob/master/BinaryFileMerge.md)
-
+* [Test3: Delete File Merge Test](https://github.com/ak90406/git_test/blob/master/DeleteFileTest.md)
 
 Conflict Test
 =============
