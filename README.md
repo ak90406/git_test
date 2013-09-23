@@ -1,13 +1,9 @@
 Merge Test
 ==========
-* [Test1: blahblahblahblah](merge/conflict.md)
-* [Test2: blahblahblahblah](merge/foo.md)
-* [Test3: .........](merge/foo2.md)
+* [Test1: new file merge test](https://github.com/ak90406/git_test/blob/master/NewFileMerge.md)
+* [Test2: binary file merge](https://github.com/ak90406/git_test/blob/master/BinaryFileMerge.md)
+
 
 Conflict Test
 =============
-* [Test1: blahblahblahblah](conflict/conflict.md)
-
-
-
-這只是範例格式... 請自己揣摩
+* [Test1: 在不同的分支中修改同一個文件的同一部分](https://github.com/ak90406/git_test/blob/master/conflict.md)
