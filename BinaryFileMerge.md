@@ -10,3 +10,7 @@
 ------
 1. 切到 `b1`，將 `file.jpg` ，抹去原本的`Ｏ`，改畫成`Ｘ`，並 commit（`bc1`）。
 1. 切到 `master`，要求與 `b1` 作 merge。
+
+結果 1
+-----
+1. git 在merge過後只留下`Ｏ`圖案的`file.jpg`，即只會留下head所指的branch（在這邊是`master`）的 Binary檔案
