@@ -29,3 +29,7 @@
 
 	並 commit（`bc1`）
 1. 切到 `master`，要求與 `b1` 作 merge。
+
+結果1
+-----
+1. merge後，`file.txt`內容沒變化，而`file2.txt`被新增在merge後的commit中。
